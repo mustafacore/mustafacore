@@ -22,6 +22,7 @@ I'm a passionate and versatile software engineer with hands-on experience in ful
 
 ### 🛠️ Tools & Platforms  
 `VS Code`, `Swagger`, `Postman`, `Figma`, `Framer`, `Notion`, `Google Forms`
+
 ---
 
 ## 🛠️ Featured Projects
