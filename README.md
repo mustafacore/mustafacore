@@ -12,19 +12,16 @@ I'm a passionate and versatile software engineer with hands-on experience in ful
 
 ## 🧠 Skills & Technologies
 
-**Languages:**  
-`JavaScript`, `TypeScript`, `C#`, `PHP`, `SQL`, `HTML`, `CSS`  
-<sub><i>Also familiar with: Python, Java, C++</i></sub>
+### 👨‍💻 Programming & Scripting  
+`JavaScript`, `TypeScript`, `C#`, `PHP`, `SQL`, `HTML`, `CSS`, `Python`
+<sub><i>Also familiar with: Java, C++</i></sub>
 
-**Frontend:**  
-`Angular`, `React.js`, `Figma`, Design Systems
+### 💡 Web Development  
+- **Frontend:** `Angular`, `React.js`, `Next.js`, `Vite`, `Tailwind CSS`, `ShadCN/UI` 
+- **Backend:** `ASP.NET Core`, `Django`, `Node.js`, `Express.js`, `Firebase`, `RESTful APIs`
 
-**Backend:**  
-`ASP.NET Core`, `Django`, `RESTful APIs`
-
-**Tools:**  
-`Git`, `GitHub`, `Swagger`, `VS Code`, `Visual Studio`
-
+### 🛠️ Tools & Platforms  
+`VS Code`, `Swagger`, `Postman`, `Figma`, `Framer`, `Notion`, `Google Forms`
 ---
 
 ## 🛠️ Featured Projects
