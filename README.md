@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mustafa Sallat
 
-🎓 Computer Science graduate | 💻 Full-Stack Developer | 🎨 UI/UX Designer  
+🎓 Computer Science graduate | 👨‍💻 Software Engineer | 💻 Full-Stack Developer | 🎨 UI/UX Designer  
 📍 Riyadh, Saudi Arabia | 🗓️ Graduated June 2025
 
 I'm a passionate and versatile software engineer with hands-on experience in full-stack web development and UI/UX design through internships and academic projects. I enjoy building efficient backends, clean interfaces, and user-centered experiences.
@@ -12,67 +12,46 @@ I'm a passionate and versatile software engineer with hands-on experience in ful
 
 ## 🧠 Skills & Technologies
 
-<div align="center">
+**Languages:**  
+`JavaScript`, `TypeScript`, `C#`, `PHP`, `SQL`, `HTML`, `CSS`  
+<sub><i>Also familiar with: Python, Java, C++</i></sub>
 
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <code>JavaScript</code> • <code>TypeScript</code> • <code>C#</code> • <code>PHP</code> • <code>SQL</code> • <code>HTML</code> • <code>CSS</code>  
-      <br/><sub><i>Also familiar with:</i> Python, Java, C++</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td><code>Angular</code> • <code>React.js</code> • <code>Figma</code> • <code>Design Systems</code></td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td><code>ASP.NET Core</code> • <code>Django</code> • <code>RESTful APIs</code></td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td><code>Git & GitHub</code> • <code>Swagger</code> • <code>Visual Studio</code> • <code>VS Code</code></td>
-  </tr>
-  <tr>
-    <td><strong>Practices</strong></td>
-    <td>OOP • SOLID • Clean Code • Agile/Scrum • MVC • Design Patterns • Unit Testing</td>
-  </tr>
-</table>
+**Frontend:**  
+`Angular`, `React.js`, `Figma`, Design Systems
 
-</div>
+**Backend:**  
+`ASP.NET Core`, `Django`, `RESTful APIs`
+
+**Tools:**  
+`Git`, `GitHub`, `Swagger`, `VS Code`, `Visual Studio`
 
 ---
 
 ## 🛠️ Featured Projects
 
 ### 🔹 [Medad – AI Arabic Calligraphy](https://medad.up.railway.app/)
-AI-powered web platform that transforms typed Arabic text into authentic calligraphy using Vision Transformers and image-to-image deep learning.
+Transforms Arabic text into authentic calligraphy using AI and Vision Transformers.
 
 ### 🔹 [SolveIt – Ticketing System](https://github.com/msallat5/SolveIt)
-Client support ticketing system that streamlines requests and enhances internal service efficiency. Built with ASP.NET Core & Angular.
+Client support ticketing platform built with ASP.NET Core and Angular.
 
 > 🧪 Explore more on [my portfolio](https://mustafasallat.netlify.app/portfolio)
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Experience
 
-- **T2 Company – Back-End Intern**  
-  🔹 Built 10+ REST APIs using ASP.NET Core & EF  
-  🔹 Developed secure role-based login (JWT + Angular guards)
+- **Back-End Intern @ T2**  
+  Developed REST APIs and secure authentication with ASP.NET Core & Angular.
 
-- **Smart Methods – Full-Stack Intern**  
-  🔹 Built backend features for robotics control systems  
-  🔹 Improved UI speed and usability for internal tools
+- **Full-Stack Intern @ Smart Methods**  
+  Built backend features and improved UI performance for robotics control systems.
 
 ---
 
 ## 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafasallat)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/mustafacore)  
-[![Behance](https://img.shields.io/badge/Behance-0057ff?logo=behance&logoColor=white)](https://www.behance.net/mustafasallat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafasallat)  [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/mustafacore)  [![Behance](https://img.shields.io/badge/Behance-0057ff?logo=behance&logoColor=white)](https://www.behance.net/mustafasallat)
 
 ---
 
