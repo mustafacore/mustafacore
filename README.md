@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Mustafa Sallat
 
 🎓 Computer Science graduate | 👨‍💻 Software Engineer | 💻 Full-Stack Developer | 🎨 UI/UX Designer  
-📍 Riyadh, Saudi Arabia | 🗓️ Graduated June 2025
 
 I'm a passionate and versatile software engineer with hands-on experience in full-stack web development and UI/UX design through internships and academic projects. I enjoy building efficient backends, clean interfaces, and user-centered experiences.
 
 🌐 [Portfolio Website](https://mustafasallat.netlify.app/)  
-📫 mustafa.sallat.dev@gmail.com | 📱 +966595980872
+📫 mustafa.sallat.dev@gmail.com
 
 ---
 
